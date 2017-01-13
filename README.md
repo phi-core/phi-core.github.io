@@ -1,10 +1,9 @@
 # Precision Health Informatics Core
 
-_site under development_
+The Precision Health Informatics Core is embedded within Prof. Richard Dobson’s “Health Informatics” Group, part of the Department of Biostatistics and Health Informatics, KCL. 
 
-An expert lead resource providing (Big) data analysis and computational capabilities for the design and execution of genomics and health informatic driven translational projects.
+We an expert lead resource providing (Big) data analysis and computational capabilities for the design and execution of genomics and health informatic driven translational projects.
 
-_Embedded within Prof. Richard Dobson’s “Health Informatics” Group, part of the Department of Biostatistics and Health Informatics, KCL_
 
 ## The mission of the core is three fold:
 
@@ -48,15 +47,15 @@ The team will work with you to evaluate your research project proposals and desi
 
 Once the design is agreed the team will plan and allocate appropriate resources, undertake the bioinformatics processing, analyse the data and results, and communicate these to the research project team.
 
-**3 Tiered Service/Collaboration Model**  
+**Three Tiered Service/Collaboration Model**  
 1. Fee-for-Service  
 2. Basic Collaboration  
 3. Full Collaboration  
 
-**Costing**
-We run the 
+**Costing** 
+We run the Core under a mixture of grant 
  
-Internal NIHR BRC funded academic projects are fully subsidised by our BRC.
+Internal NIHR SLAM BRC/U funded academic projects are fully subsidised by our BRC.
 
 ## Open Access
 All researchers supported by BRC/U, and / or publishing work supported by BRC/U, should be aware of NIHR policy on open access. NIHR has also produced a guidance document to explain the implications of the above policy to the NIHR Infrastructure. 
