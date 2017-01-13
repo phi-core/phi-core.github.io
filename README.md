@@ -27,3 +27,7 @@ Please contact Dr Stephen J Newhouse & Miss. Lucy O’Neill for further informat
 - Illumina Expression Array  
 - NGS: DNA-seq  
 - NGS: RNA-seq  
+
+********
+
+_Adapted & Taken from the model created and run by emanuele.de_rinaldis@kcl.ac.uk at The GSTT BRC Bioinformatics Core [URL](http://www.guysandstthomasbrc.nihr.ac.uk/research-platforms/translational-bioinformatics/)_
