@@ -48,14 +48,22 @@ The team will work with you to evaluate your research project proposals and desi
 Once the design is agreed the team will plan and allocate appropriate resources, undertake the bioinformatics processing, analyse the data and results, and communicate these to the research project team.
 
 **Three Tiered Service/Collaboration Model**  
+
 1. Fee-for-Service  
 2. Basic Collaboration  
 3. Full Collaboration  
 
-**Costing** 
-We run the Core under a mixture of grant 
+**Costing**  
+
+We run the Core under a mixture of fee-for-service and grant funded costing models. 
  
-Internal NIHR SLAM BRC/U funded academic projects are fully subsidised by our BRC.
+The costs and not-for-profit and used to cover Core staff time (RACE FEC) for internal and external non-BRC funded projects*, Rosalind [add link] HPC and storage costs, AWS cloud compute and storage, provision of external hard-drives (upon request), and to build up a pot of money to replace, repair, expand hardware overtime.
+ 
+*All internal NIHR SLAM BRC/U funded academic projects are fully subsidised by our BRC.
+
+**Output VAT**  
+
+King's doesn't charge Output VAT on its supply of research services to certain funders such as research councils, Government Departments / Agencies, the EU and UK Charities, although where King's supplies them with non-research services (such as consultancy) Output VAT is charged. King's does charge Output VAT on the majority of research funding received from industry, including CASE awards, and this has been the situation since 1994.
 
 ## Open Access
 All researchers supported by BRC/U, and / or publishing work supported by BRC/U, should be aware of NIHR policy on open access. NIHR has also produced a guidance document to explain the implications of the above policy to the NIHR Infrastructure. 
