@@ -48,7 +48,7 @@ The team will work with you to evaluate your research project proposals and desi
 
 Once the design is agreed the team will plan and allocate appropriate resources, undertake the bioinformatics processing, analyse the data and results, and communicate these to the research project team.
 
-**3 Tiered Service/Collaboration Model**
+**3 Tiered Service/Collaboration Model**  
 1. Fee-for-Service  
 2. Basic Collaboration  
 3. Full Collaboration  
