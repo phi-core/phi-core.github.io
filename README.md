@@ -33,6 +33,13 @@ Please contact Dr Stephen J Newhouse & Miss. Lucy O’Neill for further informat
 - Biostatistics and Machine Learing   
 - Clinical and Molecular Data Integration  
 
+## Bioinformatics Training
+
+We offer basic Bioinformatics training on supported analyses solutions to individuals and labs upon request.
+
+## Funding
+The Core is funded by the National Institute for Health Research (NIHR) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King’s College London. 
+
 ## Operation and Costing Model
 
 We work collaboratively with core users to ensure the highest quality and integrity of data outputs and analysis.
@@ -41,8 +48,15 @@ The team will work with you to evaluate your research project proposals and desi
 
 Once the design is agreed the team will plan and allocate appropriate resources, undertake the bioinformatics processing, analyse the data and results, and communicate these to the research project team.
 
-## Funding
-The Core is funded by the National Institute for Health Research (NIHR) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King’s College London. 
+**3 Tiered Service/Collaboration Model**
+1. Fee-for-Service  
+2. Basic Collaboration  
+3. Full Collaboration  
+
+**Costing**
+We run the 
+ 
+Internal NIHR BRC funded academic projects are fully subsidised by our BRC.
 
 ## Open Access
 All researchers supported by BRC/U, and / or publishing work supported by BRC/U, should be aware of NIHR policy on open access. NIHR has also produced a guidance document to explain the implications of the above policy to the NIHR Infrastructure. 
