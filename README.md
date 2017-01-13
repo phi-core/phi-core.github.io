@@ -1,5 +1,7 @@
-# phi-core.github.io
+# Precision Health Informatics Core
 An expert lead resource providing (Big) data analysis and computational capabilities for the design and execution of genomics and health informatic driven translational projects.
+
+_Embedded within Prof. Richard Dobson’s “Health Informatics” Group, part of the Department of Biostatistics and Health Informatics, KCL_
 
 ### The mission of the core is three fold:
 
@@ -11,3 +13,7 @@ An expert lead resource providing (Big) data analysis and computational capabili
 
 The SLAM BRC Bioinformatics Core serves as a central point of contact and venue for collaboration with bioinformatics, Health Informatic and computational biology specialists within the SLAM BRC & IoPPN KCL community and is expected to interact with different entities, including internal academic, hospital and BRC groups as well as external and industrial partners.
 
+## Core Team
+
+Dr Stephen J Newhouse  : Core Manager  <stephen.newhouse@kcl.ac.uk>
+Mr Hamel Patel  : Core Bioinformatician  <hamel.patel@kcl.ac.uk>
