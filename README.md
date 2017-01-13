@@ -15,5 +15,5 @@ The SLAM BRC Bioinformatics Core serves as a central point of contact and venue 
 
 ## Core Team
 
-Dr Stephen J Newhouse  : Core Manager  <stephen.newhouse@kcl.ac.uk>
-Mr Hamel Patel  : Core Bioinformatician  <hamel.patel@kcl.ac.uk>
+Dr Stephen J Newhouse  : Core Manager  <stephen.newhouse@kcl.ac.uk>  
+Mr Hamel Patel  : Core Bioinformatician  <hamel.patel@kcl.ac.uk>  
