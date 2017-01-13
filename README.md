@@ -1,9 +1,12 @@
 # Precision Health Informatics Core
+
+_site under development_
+
 An expert lead resource providing (Big) data analysis and computational capabilities for the design and execution of genomics and health informatic driven translational projects.
 
 _Embedded within Prof. Richard Dobson’s “Health Informatics” Group, part of the Department of Biostatistics and Health Informatics, KCL_
 
-### The mission of the core is three fold:
+## The mission of the core is three fold:
 
 1. Enable the SLAM BRC & IoPPN KCL community to analyse the large volume of genomics & EHR data, through the provision of services and collaborations and the development of an infrastructure, which can be horizontally shared across different projects and therapeutic areas.
 
@@ -21,12 +24,28 @@ Miss. Lucy O’Neill: Business Coordinator, "lucy.o'neill@kcl.ac.uk".
 
 Please contact Dr Stephen J Newhouse & Miss. Lucy O’Neill for further information.
 
-## Bioinformatic Solutions
+## Computational methods and analytical pipelines
 
 - Illumina SNP Array  
 - Illumina Expression Array  
 - NGS: DNA-seq  
 - NGS: RNA-seq  
+- Biostatistics and Machine Learing   
+- Clinical and Molecular Data Integration  
+
+## Operation and Costing Model
+
+We work collaboratively with core users to ensure the highest quality and integrity of data outputs and analysis.
+
+The team will work with you to evaluate your research project proposals and design an appropriate experimental design for bioinformatics processing and data analysis.
+
+Once the design is agreed the team will plan and allocate appropriate resources, undertake the bioinformatics processing, analyse the data and results, and communicate these to the research project team.
+
+## Funding
+The Core is funded by the National Institute for Health Research (NIHR) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King’s College London. 
+
+## Open Access
+All researchers supported by BRC/U, and / or publishing work supported by BRC/U, should be aware of NIHR policy on open access. NIHR has also produced a guidance document to explain the implications of the above policy to the NIHR Infrastructure. 
 
 ********
 
