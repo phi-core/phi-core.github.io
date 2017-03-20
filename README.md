@@ -2,7 +2,7 @@
 
 The Precision Health Informatics Core is embedded within Prof. Richard Dobson’s “Health Informatics” Group, part of the Department of Biostatistics and Health Informatics, KCL. 
 
-We an expert lead resource providing (Big) data analysis and computational capabilities for the design and execution of genomics and health informatic driven translational projects.
+We are an expert lead resource providing (Big) data analysis and computational capabilities for the design and execution of genomics and health informatic driven translational projects.
 
 
 ## The mission of the core is three fold:
