@@ -1,5 +1,5 @@
 
-** 43 Genotype projects completed since 18/07/2013 (a further 2 in progress)**
+**43 Genotype projects completed since 18/07/2013 (a further 2 in progress)**
 
 •	32,640,483 SNPs variants processed  
 •	25,115 samples processed  
